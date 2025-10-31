@@ -36,3 +36,11 @@ python -m spacy download en_core_web_sm
 
 # Run the app
 streamlit run app.py
+
+```
+
+## Sample Output
+<img width="1920" height="1005" alt="cli" src="https://github.com/user-attachments/assets/419dc637-d4aa-4847-a1c4-bf31ae239499" />
+<img width="1920" height="1005" alt="gui 1st part" src="https://github.com/user-attachments/assets/788e73f6-ea17-4bff-a611-ba554f0556d7" />
+<img width="1920" height="1005" alt="splunk queries" src="https://github.com/user-attachments/assets/311028fb-c49a-49d5-8f5c-c3abf9b1147f" />
+
