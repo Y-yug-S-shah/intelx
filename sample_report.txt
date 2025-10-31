@@ -1,0 +1,2 @@
+APT29 used phishing emails with malicious domains like login-update[.]com and supportportal.net. Malware hash: 3f4c7d8b9a0c3e51a129dcee8a91a01c2b0c4f52eab9b8b145cb2a2a92ed8e1a. Targeted CVE-2024-21412 and IP 192.168.10.14.
+        
