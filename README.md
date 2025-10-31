@@ -25,7 +25,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/intelx.git
+git clone https://github.com/Y-yug-S-shah/intelx.git
 cd intelx
 
 # Install dependencies
