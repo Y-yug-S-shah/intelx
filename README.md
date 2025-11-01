@@ -39,6 +39,16 @@ streamlit run app.py
 
 ```
 
+## 🔮 Future Scope
+
+- Validate and de-duplicate IOCs  
+- Filter out internal or non-relevant IP ranges  
+- Integrate threat enrichment from public feeds  
+- Add contextual scoring and risk tagging  
+- Explore true AI-based text summarization and report correlation  
+
+*(Open to contributions - feel free to fork, enhance, and build upon it!)*
+
 ## Sample Output
 <img width="1920" height="1005" alt="cli" src="https://github.com/user-attachments/assets/419dc637-d4aa-4847-a1c4-bf31ae239499" />
 <img width="1920" height="1005" alt="gui 1st part" src="https://github.com/user-attachments/assets/788e73f6-ea17-4bff-a611-ba554f0556d7" />
